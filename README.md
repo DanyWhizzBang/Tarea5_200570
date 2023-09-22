@@ -16,8 +16,8 @@
 ## Captura de Pantalla
 <p align="center">
   <img src="https://github.com/DanyWhizzBang/Tarea5_200570/blob/main/assets/a.jpg?raw=true" width="200" alt="Captura de Pantalla 1">
-  <img src="./assets/b.png" width="200" alt="Captura de Pantalla 2">
-  <img src="./assets/c.png" width="200" alt="Captura de Pantalla 3">
+  <img src="https://github.com/DanyWhizzBang/Tarea5_200570/blob/main/assets/b.jpg?raw=true" width="200" alt="Captura de Pantalla 2">
+  <img src="https://github.com/DanyWhizzBang/Tarea5_200570/blob/main/assets/c.jpg?raw=true" width="200" alt="Captura de Pantalla 3">
 </p>
 
 
