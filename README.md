@@ -1,4 +1,4 @@
-# DMI_Tarea5_200561
+# DMI_Tarea5_200570
 
 [![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)](https://postimg.cc/MvzwBvyZ)
 
@@ -8,16 +8,16 @@
 
 
 ## Ingeniería en Desarrollo y Gestión de Software
-## Elisama Arturo Calva Moreno
+## Daniel Arroyo Méndez
 ## 10A
 ### Desarrollo Móvil Integral
 
 
 ## Captura de Pantalla
 <p align="center">
-  <img src="./assets/a.png" width="200" alt="Captura de Pantalla 1">
-  <img src="./assets/b.png" width="200" alt="Captura de Pantalla 1">
-  <img src="./assets/c.png" width="200" alt="Captura de Pantalla 1">
+  <img src="https://github.com/DanyWhizzBang/Tarea5_200570/blob/main/assets/a.jpg?raw=true" width="200" alt="Captura de Pantalla 1">
+  <img src="./assets/b.png" width="200" alt="Captura de Pantalla 2">
+  <img src="./assets/c.png" width="200" alt="Captura de Pantalla 3">
 </p>
 
 
